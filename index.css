@@ -56,3 +56,9 @@ section {
 .project-card h4 {
     margin-top: 5px;
 }
+
+.contacts-container {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
