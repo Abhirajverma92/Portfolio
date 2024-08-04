@@ -15,7 +15,7 @@ Features
 Simple and responsive design.
 Sections for About Me, Projects, Contact Information.
 Installation
-Clone the repository: git clone https://github.com/your-username/portfolio.git
+Clone the repository: git clone https://github.com/your-username/portfolio.git](https://github.com/Abhirajverma92/Portfolio
 Open index.html in your web browser.
 Usage
 Navigate through different sections using the navigation bar.
